@@ -1,0 +1,57 @@
+{
+  "seed": 42,
+  "canvas_width": 1200,
+  "canvas_height": 800,
+  "plot_left": 90,
+  "plot_bottom": 700,
+  "plot_width": 1040,
+  "plot_height": 620,
+  "line_width": 4,
+  "axis_width": 4,
+  "grid_step": 100,
+  "vector_length": 240,
+  "intersection_tolerance_px": 2.0,
+  "slope_lift_scale": 42.0,
+  "curvature_lift_scale": 850.0,
+  "vertical_axis_slope_value": 10.0,
+  "object_lift_scale": 10000.0,
+  "k_known_lines": 2,
+  "k_point_objects": 4,
+  "lifting_distinctness_threshold": 2.0,
+  "lifting_silhouette_threshold": 0.2,
+  "color_background": [
+    255,
+    255,
+    255
+  ],
+  "color_plot_background": [
+    250,
+    250,
+    250
+  ],
+  "color_grid": [
+    224,
+    224,
+    224
+  ],
+  "color_axis": [
+    0,
+    0,
+    0
+  ],
+  "color_line_1": [
+    220,
+    20,
+    60
+  ],
+  "color_line_2": [
+    30,
+    144,
+    255
+  ],
+  "color_intersection": [
+    255,
+    165,
+    0
+  ]
+}

@@ -1,0 +1,7 @@
+stage,features,n_features,n_clusters_found,distinctness_ratio,silhouette_score,is_distinct_enough
+stage_01_xy,"x_grid,y_grid",2,2,1.92894443117417,0.377326172862456,False
+stage_02_xy_J,"x_grid,y_grid,J",3,2,2.355634319192628,0.4405179842409962,True
+stage_03_xy_J_slope,"x_grid,y_grid,J,slope",4,2,1.441226142727604,0.27536135080310553,False
+stage_04_xy_J_slope_curvature,"x_grid,y_grid,J,slope,curvature",5,2,1.2818075395701907,0.2541484376888614,False
+stage_05_xy_slope_curvature_J_F,"x_grid,y_grid,slope,curvature,J,F",6,2,1.6215390817203,0.31048857187996975,False
+stage_06_full_Phi,"x_grid,y_grid,slope,curvature,J,F,H",7,2,7.404469347094325,0.8145014229861175,True
